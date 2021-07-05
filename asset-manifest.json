@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/proxy-scraper/static/css/main.af93b97a.chunk.css",
+    "main.js": "/proxy-scraper/static/js/main.197b8f4c.chunk.js",
+    "main.js.map": "/proxy-scraper/static/js/main.197b8f4c.chunk.js.map",
+    "runtime-main.js": "/proxy-scraper/static/js/runtime-main.ba3845c5.js",
+    "runtime-main.js.map": "/proxy-scraper/static/js/runtime-main.ba3845c5.js.map",
+    "static/js/2.80ff06d5.chunk.js": "/proxy-scraper/static/js/2.80ff06d5.chunk.js",
+    "static/js/2.80ff06d5.chunk.js.map": "/proxy-scraper/static/js/2.80ff06d5.chunk.js.map",
+    "static/js/3.8ef9b75c.chunk.js": "/proxy-scraper/static/js/3.8ef9b75c.chunk.js",
+    "static/js/3.8ef9b75c.chunk.js.map": "/proxy-scraper/static/js/3.8ef9b75c.chunk.js.map",
+    "index.html": "/proxy-scraper/index.html",
+    "static/css/main.af93b97a.chunk.css.map": "/proxy-scraper/static/css/main.af93b97a.chunk.css.map",
+    "static/js/2.80ff06d5.chunk.js.LICENSE.txt": "/proxy-scraper/static/js/2.80ff06d5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/proxy-scraper/static/media/bg1.2c4a9dbc.svg",
+    "static/media/logo.6ce24c58.svg": "/proxy-scraper/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba3845c5.js",
+    "static/js/2.80ff06d5.chunk.js",
+    "static/css/main.af93b97a.chunk.css",
+    "static/js/main.197b8f4c.chunk.js"
+  ]
+}
